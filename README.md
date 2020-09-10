@@ -6,5 +6,5 @@ Vanilla ES6+ JavaScript, Bootstrap 4, Bootswatch and Font Awesome used
 
 Part of Brad Traversy's Modern JavaScript From The Beginning Course
 
-preview:
+Preview:
 ![alt text](https://github.com/kubalino/profile-github-finder/blob/master/pscreen.PNG?raw=true)
