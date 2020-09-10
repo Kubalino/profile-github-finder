@@ -1,4 +1,4 @@
-# profile-github-finder
+# Profile Github Finder
 
 Simple GitHub profile finder, reading from GitHub REST API and displaying profiles in a SPA
 
