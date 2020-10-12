@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://bootswatch.com/4/darkly/bootstrap.min.css">
+    <script src="https://kit.fontawesome.com/47b2aa4280.js" crossorigin="anonymous"></script>
+    <title>Profile GitHub Finder</title>
+</head>
+<body >
+    <nav class="navbar navbar-light bg-light mb-3">
+        <div class="container">
+            
+            <a href="#" class="navbar-brand"><i class="fab fa-github-square"></i>  <strong>GitHub  Finder</strong></a>
+        </div>
+    </nav>
+    <div class="container searchContainer">
+        <div class="search card card-body">
+            <h2 class="text-success">Search GitHub Users</h2>
+            <p class="lead">Enter a username to fetch a user profile and repositories</p>
+            <input type="text" id="searchUser" class="form-control" placeholder="GitHub Username...">
+        </div>
+        <br>
+        <div id="profile"></div>
+    </div>
+
+    <footer class="mt-5 p-3 text-center bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col col-md-4">
+                    All rights reserved to <a href="https://www.traversymedia.com/" target="_blank">Traversy Media</a>
+                </div>
+                <div style="text-align: center;"class="col col-md-4">
+                        <a href="https://www.github.com" target="_blank">GitHub Finder &copy;</a>
+                </div>
+                <div style="text-align: right;" class="col col-md-4">                    
+                        Created by <a href="https://github.com/Kubalino" target="_blank">Carlos Noronha</a>
+                </div>
+           </div>
+        
+        
+
+        </div>  
+    </footer>
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+    <script src="github.js"></script>
+    <script src="ui.js"></script>
+    <script src ="app.js"></script>
+</body>
+</html>
