@@ -1,5 +1,8 @@
 # profile-github-finder
-Simple GitHub profile finder with vanilla JavaScript, using GitHub REST API, Bootstrap for styling
+
+- Vanilla JavaScript
+- Bootstrap 4
+- GitHub REST API
 
 **[Live Demo](https://kubalino.github.io/profile-github-finder/)**
 
