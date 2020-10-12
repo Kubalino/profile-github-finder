@@ -4,7 +4,7 @@
 - Bootstrap 4
 - GitHub REST API
 
-**[Live Demo](https://kubalino.github.io/profile-github-finder/)**
+Find your profile --> **[Live Demo](https://kubalino.github.io/profile-github-finder/)**
 
 Preview: 
 
